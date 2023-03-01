@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportFromFileConsoleSample", "ImportFromFileConsoleSample\ImportFromFileConsoleSample.csproj", "{01B3B82A-0615-4864-AF88-242FAA39F6F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginStructureSample", "PluginStructureSample\PluginStructureSample.csproj", "{DC3FB893-D692-43A7-9743-3AD1D2FF640A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{01B3B82A-0615-4864-AF88-242FAA39F6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B3B82A-0615-4864-AF88-242FAA39F6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B3B82A-0615-4864-AF88-242FAA39F6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3FB893-D692-43A7-9743-3AD1D2FF640A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3FB893-D692-43A7-9743-3AD1D2FF640A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3FB893-D692-43A7-9743-3AD1D2FF640A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3FB893-D692-43A7-9743-3AD1D2FF640A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
