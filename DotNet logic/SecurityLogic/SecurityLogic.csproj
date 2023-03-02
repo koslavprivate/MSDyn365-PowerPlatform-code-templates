@@ -92,10 +92,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Plugins\BasePlugin.cs" />
+    <Compile Include="Plugins\SampleUserRestrictions.cs" />
     <Compile Include="Plugins\SingletonEntity1ToEntity2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Entity1Repository.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
     <Compile Include="Services\Entity1Service.cs" />
+    <Compile Include="Services\SampleEntityService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
