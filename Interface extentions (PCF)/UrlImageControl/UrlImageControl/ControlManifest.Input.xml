@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="sample" constructor="UrlImageControl" version="0.0.1" display-name-key="UrlImageControl" description-key="UrlImageControl description" control-type="standard" >
+    <property name="imageUrl" display-name-key="Url_Property_Display_Key" description-key="Url_Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/UrlImageControl.css" order="1" />
+    </resources>
+  </control>
+</manifest>
